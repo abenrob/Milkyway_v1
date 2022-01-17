@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+    </head>
+    <style>
+        html, body { height: 100%;
+        background-color: #080707; }
+
+        h1 { color: #fac22c;
+            font: "Fira Sans", sans-serif;
+        }
+        h2 { color: #fac22c;
+            font: "Fira Sans", sans-serif;
+        }
+        h3 { color: #fac22c;
+            font: 0.8em "Fira Sans", sans-serif;
+            left : 10px;
+        }
+    </style>
+    <body style="margin:0px;padding:0px" >
+      <h1>
+        <p align="center">Carte de support pour l'application Milky Way</p>
+      </h1>
+
+    </body>
+    <body style="margin:75px;padding:75px" >
+        <p align="center"><iframe width='95%' height='600px' src="https://api.mapbox.com/styles/v1/axxou/ckelqt6dq0kh119o2zjclxmp8.html?title=false&access_token=pk.eyJ1IjoiYXh4b3UiLCJhIjoiY2pqb2hzMWM1N240cTN3cDFkNnB5cWpoMSJ9.6CdzlLixKNbLyI9hrrXV8Q&zoomwheel=True#16.56/45.188549/5.723081/0/35" title="Capture10.JPG" style="border:none;"></iframe></p>
+    </body>
+    <h2>
+      <p align="center">Le projet vise à mettre en place une plateforme collaborative qui met en disposition des données en temps réel sur le fonctionnement et l’expérience de l’éclairage dans l’espace public, permettant aux piétons/ cyclistes/ trottinétistes de planifier sa route dans la ville en conséquence et aux services d’entretien de passer à l’action. La plateforme contiendra des données de base (par exemple sur le placement et la puissance) des lampadaires, ce qui permet aux utilisateurs de signaler des problèmes et donner du feedback sur leurs expériences de l’éclairage dans l’espace public
+    </p>
+   </h2>
+   <h3>&nbsp;&nbsp;&nbsp;&nbsp;Personnes participants au projet : Malory FORGE, Constance CALAYA, Åsa JONSSON, Olga YUZH, Dorian AVENET avec le soutien des organisateurs du Civiclab de Grenoble pour la 3ième édition &nbsp;&nbsp;<a href="https://grenoble.civiclab.eu/"><img src="https://zupimages.net/up/22/03/ovl5.png" alt="" /></a></h3>
+
+</html>
