@@ -19,6 +19,9 @@
             font: 0.8em "Fira Sans", sans-serif;
             left : 10px;
         }
+		map {
+			left : 150px;
+		}
     </style>
     <body style="margin:0px;padding:0px" >
       <h1>
@@ -27,7 +30,12 @@
 
     </body>
     <body style="margin:75px;padding:75px" >
-        <p align="center"><iframe width='90%' height='650px' src="https://api.mapbox.com/styles/v1/axxou/ckelqt6dq0kh119o2zjclxmp8.html?title=copy&access_token=pk.eyJ1IjoiYXh4b3UiLCJhIjoiY2pqb2hzMWM1N240cTN3cDFkNnB5cWpoMSJ9.6CdzlLixKNbLyI9hrrXV8Q&zoomwheel=true&fresh=true#16.31/45.187972/5.719424/0/44" title="Milky Way" style="border:none;"></iframe></p>
+	<div map>
+		<iframe width='75%' height='600px' src="https://api.mapbox.com/styles/v1/axxou/ckelqt6dq0kh119o2zjclxmp8.html?title=false&access_token=pk.eyJ1IjoiYXh4b3UiLCJhIjoiY2pqb2hzMWM1N240cTN3cDFkNnB5cWpoMSJ9.6CdzlLixKNbLyI9hrrXV8Q&zoomwheel=True#16.56/45.188549/5.723081/0/35" title="Milky Way" style="border:none;">
+		</iframe>
+		<img alt="legende" src="https://zupimages.net/up/22/09/73er.jpg" width="450" height="600"/>
+		</p>
+		</div>
     </body>
     <h2>
       <p align="center">Le projet vise à mettre en place une plateforme collaborative qui met à disposition des données en temps réel sur le fonctionnement et l’expérience de l’éclairage dans l’espace public, permettant aux piétons, cyclistes, trotinettes de planifier sa route dans la ville en conséquence et aux services d’entretien de passer à l’action. La plateforme contiendra des données de base (par exemple sur le placement et la puissance) des lampadaires, ce qui permet aux utilisateurs de signaler des problèmes et donner du feedback sur leurs expériences de l’éclairage dans l’espace public.
